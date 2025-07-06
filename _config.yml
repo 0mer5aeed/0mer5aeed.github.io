@@ -7,33 +7,35 @@
 
 # Main Page Setup
 
-title: John Doe's Portfolio # This is what shows up in the tab of the browser
+title: Omer Saeed's Portfolio # This is what shows up in the tab of the browser
 
 
 
 # Hero Section
-name: John Doe
+name: Omer
 headline: headline message
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am a Mechatronics Engineer with a Master’s degree from the University of Wollongong and a strong track record in embedded systems, industrial automation, and product design. 
+  My experience spans across Australia, the UK, and Pakistan, where I have led the development of innovative solutions from concept to delivery.
+  I specialize in PCB design, firmware integration, CNC manufacturing, and system safety, with a deep commitment to creating sustainable, high-performance engineering solutions.
+
+
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/avatar.jpeg
+profile_image: ./assets/images/profile-image/p32.jpeg
 
 
 # Link your resume
 # You can place your resume in assets/resume/{resume file.pdf} or add external link such as pdf saved in google drive 
-resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/view?usp=sharing
+resume-url:  assets/resume/{Omer_Saeed_CV_MECHATRONICS_ENGINEER_AUS_02.pdf}
 
 
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: test    # https://www.linkedin.com/in/{your url slug} 
-  github: leea12    # https://github.com/{your url slug} 
-  stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
+  linkedin: https://www.linkedin.com/in/omer-bin-saeed/    # https://www.linkedin.com/in/{your url slug} 
+  github:    # https://github.com/{your url slug} 
+  stackoverflow:       # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
   threads:            # https://threads.net/@{your url slug} 
@@ -47,32 +49,22 @@ external-links:    # input only your own url slug. The icons with missing entrie
 skills:
   - category: 3D Modeling
     tools:
-    - Onshape
     - Solidworks
     - Creo
-    - Fusion 360 (Autodesk)
-    - Blender (for complex shapes or animations)
     - Siemens NX
-    - Inventor (Autodesk)
-    - CATIA (Dassault Systèmes)
   - category: Prototyping
     tools:
     - SLA
     - CNC
-    - FDM
-    - SLS
-    - DMLS
-    - PolyJet Printing
-    - Vacuum Casting
     - Laser Cutting
-    - Water Jet Cutting
-    - Arduino / Raspberry Pi
+    - Arduino / Raspberry Pi  / Arm cortex STM
     - Breadboarding for circuit testing
+    - Labview
   - category: Design Standards / Practices
     tools:
     - GD&T ASME Y14
     - ISO fits and tolerances
-    - PLM (PTC Windchill / Arena)   
+    - IPC circuit desiging  
   - category: PCB Design
     tools:
     - Altium Designer
@@ -82,13 +74,11 @@ skills:
   - category: Problem Solving / Risk Management
     tools:
     - Root Cause Analysis (e.g., 5 Whys, Fishbone Diagram)
-    - DFMEA / PFMEA 
     - Six Sigma methodologies
-    - Shain Red-X
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
-formspree-key:   https://formspree.io/f/{8-digit key}
+formspree-key:   
 
 
 

@@ -1,16 +1,18 @@
 ---
 layout: post
-title: Super Heavy Booster Catch (Demo Only)
-description:  (I have never been employed by / affiliated with SpaceX. This is for demo use only) 
-    Developing the Super Heavy booster catch project involves designing a robust launch tower with "chopstick" arms, advanced control systems for precise booster alignment, and integrating sophisticated software for real-time trajectory adjustments and structural engineering to handle immense forces.
+title: Smart Tracker Circuit Board 
+description:  While working with Smart Monitoring Solutions, UK, I was involved in the development of a compact, high-performance tracking system for automobiles. The goal was to enable real-time, reliable location tracking across different regions using GPS and GSM technologies. I took the lead on designing a six-layer printed circuit board (PCB) using Altium Designer, focusing on signal integrity, power distribution, and thermal management. The PCB integrated an STM32 microcontroller along with GNSS, GPS, and GSM modules to ensure accurate positioning and robust communication.
+
+Special attention was given to routing, noise reduction, and antenna placement to optimize performance. I also collaborated with firmware developers to ensure seamless hardware–firmware integration and long-term system reliability. The final prototype not only delivered precise location tracking but also offered fallback connectivity through GSM, making it suitable for various commercial applications including logistics and fleet management.
+
+This project enhanced my technical capabilities in multilayer PCB design and embedded systems, while also teaching me the importance of cross-functional teamwork and designing scalable solutions for evolving industry needs.
 skills: 
-  - Structural analysis
-  - Aerodynamic design
-  - Propulsion system integration
-  - Control Algorithem 
-  - Welding
-  - Metal forming
-  - Thermal simulation
+  - Circuit design
+  - Footprint integration
+  - Prepherials assignment 
+  - routing
+  - Altium PCB
+  - CRC check
 
 main-image: /project2.jpg
 ---

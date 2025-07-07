@@ -9,7 +9,7 @@ skills:
   - Altium
   - Footprint development
 
-main-image: /zmc.png
+main-image: /6layer.png
 ---
 
 # This is another demo

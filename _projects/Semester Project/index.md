@@ -11,7 +11,5 @@ skills:
 main-image: /biohand.jpeg
 ---
 
-# This is another demo
-
 
 

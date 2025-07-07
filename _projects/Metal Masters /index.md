@@ -8,7 +8,7 @@ skills:
   - Bending Diagram
   - laser cutting 
 
-main-image: /6layer.png
+main-image: /RWH.png
 ---
 
 # This is another demo

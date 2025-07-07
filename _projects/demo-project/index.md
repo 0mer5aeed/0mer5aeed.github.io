@@ -10,7 +10,7 @@ skills:
   - Altium PCB
   - CRC check
 
-main-image: /project2.jpg
+main-image: /6layer.png
 ---
 
 ---

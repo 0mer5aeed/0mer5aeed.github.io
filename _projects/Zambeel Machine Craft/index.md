@@ -11,7 +11,3 @@ skills:
 
 main-image: /zmc.jpg
 ---
-
-# This is another demo
-
-

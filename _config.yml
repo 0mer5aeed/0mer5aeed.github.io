@@ -12,8 +12,8 @@ title: Omer Saeed's Portfolio # This is what shows up in the tab of the browser
 
 
 # Hero Section
-name: Omer
-headline: headline message
+name: Omer Saeed
+headline: Instrumentation and Process Control | Embedded Hardware Specialist | Manufacturing | R&D Focused Innovator | Passionate about Mechatronics & Automation in Real-World Applications
 description: >- # dont remove this line. this will ignore all new lines until the next section
   I am a Mechatronics Engineer with a Master’s degree from the University of Wollongong and a strong track record in embedded systems, industrial automation, and product design. 
   My experience spans across Australia, the UK, and Pakistan, where I have led the development of innovative solutions from concept to delivery.
@@ -27,7 +27,7 @@ profile_image: ./assets/images/profile-image/p32.jpeg
 
 # Link your resume
 # You can place your resume in assets/resume/{resume file.pdf} or add external link such as pdf saved in google drive 
-resume-url:  assets/resume/Omer_Saeed_CV_MECHATRONICS_ENGINEER_AUS_02.pdf
+resume-url:  assets/resume/{Omer_Saeed_CV_MECHATRONICS_ENGINEER_AUS_02.pdf}
 
 
 # Set up external links - this will show up as small icons next to your name.

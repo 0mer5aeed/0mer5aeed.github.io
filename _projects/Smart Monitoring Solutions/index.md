@@ -12,7 +12,5 @@ skills:
 main-image: /6layer.png
 ---
 
-# This is another demo
-
 
 

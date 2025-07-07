@@ -9,7 +9,7 @@ skills:
   - PCB analysis
   - ADC 
 
-main-image: /zmc.png
+main-image: /zmc.jpg
 ---
 
 # This is another demo

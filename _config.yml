@@ -33,7 +33,7 @@ resume-url:  assets/resume/Omer_Saeed_CV_MECHATRONICS_ENGINEER_AUS_05.pdf
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: https://www.linkedin.com/in/omer-bin-saeed/    # https://www.linkedin.com/in/{your url slug} 
+  linkedin: omer-bin-saeed/   # https://www.linkedin.com/in/{your url slug} 
   github:    # https://github.com/{your url slug} 
   stackoverflow:       # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
